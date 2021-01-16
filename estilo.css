@@ -1,0 +1,60 @@
+body{
+    background-color:lightgrey;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+
+}
+
+#title, .subtitle, .post_title{
+    color:grey;
+}
+
+.post_title{
+font-size: 16px;
+font-style: italic;
+margin: 0;
+margin-bottom: 15px;
+
+}
+
+.post{
+    background-color: honeydew;
+    padding: 15px;
+    border: 3px solid black;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+
+.post_image{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.foto_rosto{
+    border-radius: 30%;
+    border: royalblue solid 2px;
+}
+
+#title{
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+a{
+    text-decoration: none;
+    color:gray;
+}
+
+.contact_list{
+    list-style-type: none;
+    padding-left: 15px;
+    text-decoration: none;
+}
